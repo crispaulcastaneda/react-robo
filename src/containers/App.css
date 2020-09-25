@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Atami Display Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Atami Display Regular'), url('Atami-Display-Regular.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Atami Display Regular';
+    font-weight: 200;
+    color: #111;
+}
