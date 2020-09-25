@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b228131.chunk.css",
+    "main.js": "/static/js/main.399e9fe0.chunk.js",
+    "main.js.map": "/static/js/main.399e9fe0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8fcf26b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8fcf26b9.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.6ced7727.chunk.js": "/static/js/2.6ced7727.chunk.js",
+    "static/js/2.6ced7727.chunk.js.map": "/static/js/2.6ced7727.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d8d8d7815aa9a78f219c6e9606573087.js": "/precache-manifest.d8d8d7815aa9a78f219c6e9606573087.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4b228131.chunk.css.map": "/static/css/main.4b228131.chunk.css.map",
+    "static/js/2.6ced7727.chunk.js.LICENSE.txt": "/static/js/2.6ced7727.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Atami-Display-Regular.c6b2a8d6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fcf26b9.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.6ced7727.chunk.js",
+    "static/css/main.4b228131.chunk.css",
+    "static/js/main.399e9fe0.chunk.js"
+  ]
+}
