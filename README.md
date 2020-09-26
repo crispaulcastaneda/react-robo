@@ -1,6 +1,6 @@
-# Basic React Project
-Build a simple static website where a user can search random letters.
-With a basic components to create a search field, styling the content.
+# Built React Project
+Responsive static website where a user can search random letters.
+Run with a basic components to create a search field, styling the content, Scroll effects
 
 Fetch API data using [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
