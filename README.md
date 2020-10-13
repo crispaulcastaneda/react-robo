@@ -1,5 +1,6 @@
 # Built React Project
-Responsive static website where a user can search random letters.
+Responsive static website where a user can search with a random letters, and names that Fetch.
+
 Run with a basic components to create a search field, styling the content, Scroll effects
 
 Fetch API data using [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
